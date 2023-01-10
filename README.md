@@ -48,7 +48,8 @@ As seen above if the amount of customer service calls moves beyond 3, the likeli
 
 No Plan       | Active Plan
 :-------------------------:|:-------------------------:
-![NoIntPlanChurn2](https://user-images.githubusercontent.com/117116368/211063258-6019938f-80fb-4b00-8110-b35c292c6ae1.png)|![IntPlanChurn2](https://user-images.githubusercontent.com/117116368/211062620-3d5b51b1-0e13-49a8-99b2-c1978a3d92ec.png)
+![NoIntPlanChurn2](https://user-images.githubusercontent.com/117116368/211580869-06bc5511-d2e1-4dae-b7ae-447c6685a948.png)|![IntPlanChurn2](https://user-images.githubusercontent.com/117116368/211580727-86971378-3f7b-4223-8d05-517cd8897dac.png)
+
 
 Creating two separate data frames of customer with no international plan and those with one, individuals with an active international plan are **churning at 42%** ALMOST HALF! Emphasizing the need for a restructure if that plan, although data needs additional details on respective plans.
 # Total Charges
