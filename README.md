@@ -8,7 +8,7 @@
 * [Recommendations](#SyriaTel-Recommendaton)
 
 
-## Notbooks
+## Notebooks
 * CLEANING.ipynb: Cleaning of the database
 * EDA.ipynb : Exploritory Data Analysis
 * Modeling.ipynb : All models made (GradientBoost, LogisticRegression, KNNClassifier, RandomForest, DecisionTree)
